@@ -1,0 +1,13 @@
+.btn_grey {
+  color: grey;
+  background-color: grey;
+  font-size: 30px;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+}
+
+.btn_grey:hover {
+  opacity: 50%;
+}

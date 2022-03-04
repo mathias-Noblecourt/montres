@@ -1,0 +1,18 @@
+@import "components/banner.css";
+@import "components/btn_blue.css";
+@import "components/card.css";
+@import "components/btn_grey.css";
+@import "components/avatar.css";
+
+body {
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  opacity: 50%;
+}

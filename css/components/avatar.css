@@ -1,0 +1,9 @@
+.avatar {
+  border-radius: 50%;
+  max-width: 100px;
+}
+
+.avatar_texte {
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+}

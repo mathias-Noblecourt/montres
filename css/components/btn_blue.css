@@ -1,0 +1,12 @@
+.btn_blue {
+  color: grey;
+  background-color: #EFFFFD;
+  font-size: 30px;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.btn_blue:hover {
+  opacity: 50%;
+}
